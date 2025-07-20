@@ -32,3 +32,8 @@ Make sure you have Python installed, then run:
 
 ```bash
 pip install matplotlib
+
+## Run
+
+```bash
+python board.py
