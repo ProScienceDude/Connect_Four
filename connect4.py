@@ -87,6 +87,16 @@ def play_game():
         else:
             turn += 1
 
+
+def get_available_row(board, column):
+    for r in range(ROWS - 1, -1, -1):
+        if board[r][column] == EMPTY:
+            return r
+    return None  # Column full
+
+def drop_piece_at(board, row, column, piece):
+    board[row][column] = piece            
+
 #Calling game
 if __name__ == "__main__":
     play_game()
