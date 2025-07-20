@@ -5,6 +5,8 @@ A fun, click-based version of the classic **Connect 4** game — built entirely 
 Forget boring terminal games — this one's got a full GUI, animations, and that satisfying dropping effect. Built with love, logic, and a dash of Verstappen energy. 🏁
 
 ---
+<img width="639" height="487" alt="image" src="https://github.com/user-attachments/assets/4eb30140-8452-4ce8-80b2-ad8b7fd94f39" />
+
 
 ## 🚀 Features
 
