@@ -1,0 +1,12 @@
+{
+    "tejas": {
+        "wins": 1,
+        "games": 1,
+        "min_turns": 7
+    },
+    "raghav": {
+        "wins": 0,
+        "games": 1,
+        "min_turns": "inf"
+    }
+}
